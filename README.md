@@ -22,7 +22,6 @@ MlObserveHub is built for developers and teams working with local LLMs who need 
 
 ## Badges
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
-![License](https://img.shields.io/github/license/your-username/llm-lens)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 
 ## Installation
@@ -57,8 +56,8 @@ fetch("http://localhost:5000/api/analytics/performance")
 ```
 
 ## Support
-- [Issues](https://github.com/your-username/llm-lens/issues)
-- Email: support@yourdomain.com
+- [Issues](https://github.com/ra189zor/llm-lens/issues)
+- Email: bbr70686@gmail.com
 
 ## Roadmap
 - Add more LLM integrations
