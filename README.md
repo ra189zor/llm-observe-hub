@@ -56,7 +56,6 @@ fetch("http://localhost:5000/api/analytics/performance")
 ```
 
 ## Support
-- [Issues](https://github.com/ra189zor/llm-lens/issues)
 - Email: bbr70686@gmail.com
 
 ## Roadmap
