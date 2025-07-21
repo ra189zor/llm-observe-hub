@@ -20,6 +20,14 @@ MlObserveHub is built for developers and teams working with local LLMs who need 
 - Modern dashboard and API-first design
 - Easy integration and extensibility
 
+ ## Demo
+
+Want to see how the MlObserveHub dashboard looks in action?
+
+👉 [Download and watch the demo video](C:/Users/HP/OneDrive/Desktop/llm%20dasbaord%20.mp4)
+
+--- 
+
 ## Badges
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
