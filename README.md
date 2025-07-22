@@ -24,10 +24,10 @@ MlObserveHub is built for developers and teams working with local LLMs who need 
 
 Want to see how the MlObserveHub dashboard looks in action?
 
-👉 [Demo](<img width="1901" height="878" alt="image" src="https://github.com/user-attachments/assets/3ac00bdf-111c-4207-9f94-3c6306364504" />)
-(<img width="1894" height="506" alt="image" src="https://github.com/user-attachments/assets/ab273bb6-01fa-464f-bf53-07114fef4f0c" />)
-(<img width="1919" height="834" alt="image" src="https://github.com/user-attachments/assets/04ed11c4-e6af-478b-a499-9184ff047ddc" />)
-(<img width="1919" height="834" alt="image" src="https://github.com/user-attachments/assets/20c4e871-7147-42c7-8077-31c42bc3e91a" />)
+👉 [Demo] <img width="1901" height="878" alt="image" src="https://github.com/user-attachments/assets/3ac00bdf-111c-4207-9f94-3c6306364504" />
+<img width="1894" height="506" alt="image" src="https://github.com/user-attachments/assets/ab273bb6-01fa-464f-bf53-07114fef4f0c" />
+<img width="1919" height="834" alt="image" src="https://github.com/user-attachments/assets/04ed11c4-e6af-478b-a499-9184ff047ddc" />
+<img width="1919" height="834" alt="image" src="https://github.com/user-attachments/assets/20c4e871-7147-42c7-8077-31c42bc3e91a" />
 --- 
 
 ## Badges
