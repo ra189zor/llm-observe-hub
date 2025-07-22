@@ -24,8 +24,10 @@ MlObserveHub is built for developers and teams working with local LLMs who need 
 
 Want to see how the MlObserveHub dashboard looks in action?
 
-👉 [Download or watch the demo video](https://private-user-images.githubusercontent.com/108934291/468765885-ebfce0ac-6a9b-4057-9a40-561d1fe68561.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMxMjQ5OTksIm5iZiI6MTc1MzEyNDY5OSwicGF0aCI6Ii8xMDg5MzQyOTEvNDY4NzY1ODg1LWViZmNlMGFjLTZhOWItNDA1Ny05YTQwLTU2MWQxZmU2ODU2MS5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyMVQxOTA0NTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hMzlhZjk4YjE5NmRlZWQxNjJhMDAwZDE2ZjAyMmFmODI4ZGRmZjE1ZTU1NThiZTEzZTAwOTI2ZTUyYzg4NWE0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.DCYmmJ4ug7znUGOmd80AW2rOGFCM3P4a-WdkOLG4y90)
-
+👉 [Demo](<img width="1901" height="878" alt="image" src="https://github.com/user-attachments/assets/3ac00bdf-111c-4207-9f94-3c6306364504" />)
+(<img width="1894" height="506" alt="image" src="https://github.com/user-attachments/assets/ab273bb6-01fa-464f-bf53-07114fef4f0c" />)
+(<img width="1919" height="834" alt="image" src="https://github.com/user-attachments/assets/04ed11c4-e6af-478b-a499-9184ff047ddc" />)
+(<img width="1919" height="834" alt="image" src="https://github.com/user-attachments/assets/20c4e871-7147-42c7-8077-31c42bc3e91a" />)
 --- 
 
 ## Badges
